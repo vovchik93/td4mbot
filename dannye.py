@@ -1,1 +1,1 @@
-tokenchik = '6615912165:AAEluPiqt8ZxN6p_-9m0ALldTPZWtVuqFqE'
+tokenchik = "Ваш токен"
